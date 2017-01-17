@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImagesManager</string>
+    <string name="images_manager_title">ZooMania</string>
+    <string name="button1">Boton 1</string>
+    <string name="button2">Boton 2</string>
+    <string name="button3">Boton 3</string>
+    <string name="downloadButton">Download</string>
+</resources>
